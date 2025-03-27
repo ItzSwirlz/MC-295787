@@ -20,6 +20,9 @@
 		],
 		"client": [
 			"com.example.ExampleModClient"
+		],
+		"fabric-gametest": [
+			"com.example.test.CustomTest"
 		]
 	},
 	"mixins": [
